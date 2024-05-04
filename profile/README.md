@@ -11,4 +11,4 @@ Nunca foi tão fácil ter um software no seu negócio!
 - [@barrossjoao](https://www.github.com/barrossjoao)
 
 
-![Logo](https://easytechs.com.br/images/logo.png)
+<img src="https://easytechs.com.br/images/logo.png" alt="Logo" width="200"/>
